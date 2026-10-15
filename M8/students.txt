@@ -1,0 +1,15 @@
+Jones
+1
+12
+Adams
+1
+10
+Baker
+0
+12
+Smith
+0
+16
+Wilson
+1
+6
