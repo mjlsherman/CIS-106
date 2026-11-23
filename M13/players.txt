@@ -1,0 +1,10 @@
+Aaron Judge,0.287
+Shohei Ohtani,0.310
+Mookie Betts,0.295
+Freddie Freeman,0.301
+Juan Soto,0.288
+Bryce Harper,0.276
+Mike Trout,0.263
+Jose Ramirez,0.280
+Corey Seager,0.292
+Bobby Witt Jr,0.315
